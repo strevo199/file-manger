@@ -1,0 +1,20 @@
+.app{
+  height: 100vh;
+  background-color: #ada8b349;
+  display: flex;
+  flex-direction: column;
+  }
+
+
+
+footer{
+  height: 6vh;
+  min-height: 6vh;
+}
+
+
+
+.appbody{
+  height: 79vh;
+  min-height: 79vh;
+}

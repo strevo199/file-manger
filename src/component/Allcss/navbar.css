@@ -1,0 +1,23 @@
+/* .searchbar{
+}    background-color: #eae4f049; */
+
+
+.navbar_1{
+    height: 8vh;
+      min-height: 8vh;
+    background-color: #f3ebfa;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.205);
+}
+
+
+.homenav{
+    height: 7vh;
+    min-height: 7vh;
+    background-color: #f3ebfa73;
+  }
+
+.navsearchicon{
+    position: absolute;
+    left: 40vw;
+    
+}
